@@ -19,3 +19,7 @@
 
 ### Friday
 •⁠  ⁠Study & review 🧠
+
+# My Notes
+Here is my comp1238 work:
+[COMP1238 Notes](comp1238.md)
